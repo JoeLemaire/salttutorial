@@ -14,4 +14,4 @@ index.html:
 apache_service:
   service.running:
     - name: httpd
-    - enabled: true
+    - enabled: True
