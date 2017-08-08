@@ -2,5 +2,5 @@ base:
   '*':
     - users
 
-  'web*':
+  '*Min*':
   	- apache
