@@ -3,4 +3,4 @@ base:
     - users
 
   '*Min*':
-  	- apache
+    - apache
