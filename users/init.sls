@@ -1,6 +1,6 @@
 user_mo_ali:
-	user.present:
-		-name: mo.ali
+  user.present:
+    - name: mo.ali
     - fullname: Mo Ali
     - shell: /bin/bash
     - home: /home/mo.ali
