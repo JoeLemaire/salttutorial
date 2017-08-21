@@ -1,4 +1,4 @@
-base:
+salttutorial_base:
   '*':
     - users
 
